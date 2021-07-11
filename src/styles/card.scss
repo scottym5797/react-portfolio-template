@@ -18,23 +18,25 @@
     transform: translate(0, 20px);
     cursor: pointer;
     h1 {
-      font-size: 14px;
+      font-size: 1.4em;
       color: white;
     }
     p {
-      font-size: 10px;
+      font-size: 1em;
       color: white;
       margin-bottom: 20px;
     }
 
     .btn {
-      background-color: black;
+      background-color: #4d94ff;
       color: white;
       padding: 10px;
       text-decoration: none;
     }
     &:hover {
+      background-color: rgb(145, 142, 142);
       opacity: 1;
+      padding-bottom: 5%;
       transform: translate(0, 0px);
     }
   }
