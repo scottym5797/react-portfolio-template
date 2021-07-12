@@ -16,7 +16,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink, contactEmail }) => {
         <p className="text">{paragraph}</p>
         {projectLink ? <a
           href={projectLink ? projectLink : "#"}
-          target="_blank"
+          // target="_blank"
           rel="noopener noreferrer"
           className="btn"
         >
