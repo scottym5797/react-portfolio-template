@@ -1,6 +1,6 @@
 import React from "react"
 
-const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
+const Card = ({ heading, paragraph, imgUrl, projectLink, contactEmail }) => {
   return (
     <div
       className="card"
@@ -14,14 +14,23 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
       <div className="content">
         <h1 className="header">{heading}</h1>
         <p className="text">{paragraph}</p>
-        <a
+        {projectLink ? <a
           href={projectLink ? projectLink : "#"}
           target="_blank"
           rel="noopener noreferrer"
           className="btn"
         >
           Explore
-        </a>
+          
+        </a> : <a
+              href={`mailto:${
+                contactEmail ? contactEmail : "scott.martin5797@gmail.com"
+              }`}
+              className="primary-btn"
+            >
+              Contact for access
+            </a>}
+        
       </div>
     </div>
   )

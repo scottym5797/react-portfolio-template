@@ -69,7 +69,7 @@ export default {
       imageSrc:
       facebook,
       //Project URL - Add Your Project Url Here
-      url: "http://scottmartin.tech/",
+      url: "",
     },
     {
       title: "SEA Campaign Automation", //Project Title - Add Your Project Title Here
@@ -79,7 +79,7 @@ export default {
       imageSrc:
         "https://images.unsplash.com/photo-1561451212-d7350aa8d04c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2690&q=80",
       //Project URL - Add Your Project Url Here
-      url: "http://scottmartin.tech/",
+      url: "",
     },
     {
       title: "Corona Tracker", //Project Title - Add Your Project Title Here
@@ -99,7 +99,7 @@ export default {
       imageSrc:
         "https://images.unsplash.com/photo-1618961734760-466979ce35b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2689&q=80",
       //Project URL - Add Your Project Url Here
-      url: "http://scottmartin.tech/",
+      url: "",
     },
 
 
