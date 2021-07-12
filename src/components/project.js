@@ -9,7 +9,7 @@ const About = ({ title, paraOne, paraTwo, imgUrl, paraThree, projectLink, urlTex
         <div className="about-section">
           <div className="content">
             <Fade bottom cascade>
-              <h1>{title}</h1>
+              <h1 style={{fontSize:"calc(1.2em + 1vw)"}}>{title}</h1>
             </Fade>
             <p>
               <b>About:</b>

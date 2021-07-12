@@ -24,15 +24,15 @@ export default {
   name: "Scott",
   headerTagline: [
     //Line 1 For Header
-    "Combining technical",
+    "Combining passion",
     //Line 2 For Header
-    "passion and expertise",
-    //Line 3 For Header
-    "with domain knowledge",
+    "and expertise with",
+    //Line 3 For Header,
+    "domain knowledge",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Software Engineer with over 2 years experience using Python to build products used in automation and marketing.",
+    "Software Engineer with over 2 years experience using Python and JavaScript to build products for automation and marketing.",
 
   //Contact Email
   contactEmail: "scott.martin5797@gmail.com",
@@ -84,7 +84,7 @@ export default {
     {
       title: "Corona Tracker", //Project Title - Add Your Project Title Here
       para:
-        "Tool to check the current number of corona infections", // Add Your Service Type Here
+        "Tool to check the current number of corona infections. Built with React.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2689&q=80",
