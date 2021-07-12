@@ -141,7 +141,7 @@ export default {
     {
       img: awsIcon,
       para:
-        "Expereience with deploying and using Amazon services such as Lambda, S3, EC2, RDS",
+        "Experience with deploying and using Amazon services such as Lambda, S3, EC2, RDS",
     },
     {
       img: codeIcon,
