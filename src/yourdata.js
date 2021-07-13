@@ -54,7 +54,7 @@ export default {
     {
       title: "Hali Halisi", //Project Title - Add Your Project Title Here
       para:
-        "Progressive Web App to connect the Deaf to interpreters", // Add Your Service Type Here
+        "Progressive Web App to connect the Deaf to interpreters. Winner of African AT Accelerator Program.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         halisi,
