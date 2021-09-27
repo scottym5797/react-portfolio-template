@@ -32,7 +32,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Software Engineer with over 2 years experience using Python and JavaScript to build products for automation and marketing.",
+    "Software Engineer with over 2 years experience using Python and JavaScript to build products for automation and marketing.\nCTO of award winning social startup Hali Halisi.",
 
   //Contact Email
   contactEmail: "scott.martin5797@gmail.com",
